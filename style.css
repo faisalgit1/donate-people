@@ -50,18 +50,19 @@ section {
 }
 
 .flex {
-    display: flex;
-    width: 50%;
+    display: inline-flex;
+    padding: 20px;
+    margin-left: 140px;
 }
 
 .how-taka {
-    margin-left: 120px;
-
+    padding: 30px 30px 0px 30px;
 }
 
 #must {
     color: red;
     border: 1mm solid red;
+    padding: 20px 20px;
 }
 
 .hi {
