@@ -1,0 +1,154 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    color: orange;
+    font-weight: 900;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+section {
+    margin-bottom: 80px;
+}
+
+#header {
+    background-image: url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header2 p {
+    color: orange;
+    font-weight: 600;
+    font-size: large;
+}
+
+.link-button {
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    font-weight: 700;
+    padding: 15px 20px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.header2 {
+    padding-top: 10%;
+    padding-bottom: 10%;
+    text-align: center;
+}
+
+.help {
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+    width: 50%;
+}
+
+.how-taka {
+    margin-left: 120px;
+
+}
+
+#must {
+    color: red;
+    border: 1mm solid red;
+}
+
+.hi {
+    text-align: center;
+    padding-top: 80px;
+}
+
+#hi2 {
+    margin-bottom: 5%;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    text-align: center;
+    width: 70%;
+    padding: 10px;
+}
+
+.text-align {
+    text-align: center;
+    padding-top: 5%;
+}
+
+#flex {
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+}
+
+.food {
+    background-color: rgb(218, 127, 127);
+    margin: 10px;
+    padding: 40px;
+}
+
+#shelter {
+    background-color: rgb(136, 211, 211);
+}
+
+#education {
+    background-color: rgb(233, 202, 143);
+}
+
+.yellow {
+    color: orange;
+}
+
+.red {
+    color: red;
+}
+
+#flex1 {
+    display: flex;
+}
+
+#flex1 img {
+    width: 90%;
+}
+
+.email {
+    text-align: center;
+    background-color: rgb(221, 221, 192);
+    width: 60%;
+    margin-left: 20%;
+    padding: 30px 80px;
+}
+
+#email {
+    padding: 13px 40px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+
+#add {
+    padding: 13px 12px;
+    background-color: red;
+}
+
+footer {
+    background-color: black;
+    padding: 4%;
+    text-align: center;
+}
+
+footer p {
+    color: azure;
+}
+
+.orange {
+    color: orangered;
+    font-size: 40px;
+}
